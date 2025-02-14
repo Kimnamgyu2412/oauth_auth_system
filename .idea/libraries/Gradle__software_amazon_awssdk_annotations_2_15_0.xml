@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk:annotations:2.15.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/annotations/2.15.0/6db4a1c49a05125d8404ef86c2488daf00a13307/annotations-2.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/annotations/2.15.0/7ab9f2fae85664df5a029893575cd6bd3378c974/annotations-2.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

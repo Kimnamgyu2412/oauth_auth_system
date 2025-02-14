@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oauth-api-system.iml" filepath="$PROJECT_DIR$/.idea/modules/oauth-api-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oauth-api-system.main.iml" filepath="$PROJECT_DIR$/.idea/modules/oauth-api-system.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oauth-api-system.test.iml" filepath="$PROJECT_DIR$/.idea/modules/oauth-api-system.test.iml" />
+    </modules>
+  </component>
+</project>

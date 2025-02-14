@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk:aws-query-protocol:2.15.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/aws-query-protocol/2.15.0/b4626b4106cb8d177bceb225c4e51ff66a7f0101/aws-query-protocol-2.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/aws-query-protocol/2.15.0/455a3f658664ef492ccf65a8e5884d93777a5233/aws-query-protocol-2.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
